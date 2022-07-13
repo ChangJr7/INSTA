@@ -2,7 +2,7 @@
 
 INSTA adalah sebuah tools atau script Termux untuk cracking sebuah akun Instagram.
 
-Jika kamu ingin menggunakan tools INSTA, kamu perlu daftar terlebih dahulu di 
+Jika kamu ingin menggunakan tools INSTA, kamu perlu daftar terlebih dahulu di https://wa.me/+16143244921
 
 # MENU
 [![Screenshot-2022-07-13-11-27-22-48-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/Mp1Q155F/Screenshot-2022-07-13-11-27-22-48-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/9DF0hGvd)
@@ -28,3 +28,8 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
      - 2 Bulan  : 150.000
      - 3 Bulan  : 200.000
      - Permanen : 400.000
+
+# Kontak Saya
+  WhatsApp : +1 (614) 324-4921
+
+  Facebook : -
