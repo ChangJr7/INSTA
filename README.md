@@ -32,4 +32,4 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 # Kontak Saya
   WhatsApp : +1 (614) 324-4921
 
-  Facebook : -
+  Facebook : facebook.com/100075229000933
