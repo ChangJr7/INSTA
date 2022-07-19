@@ -29,7 +29,9 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
      - 3 Bulan  : 200.000
      - Permanen : 400.000
 
-# Kontak Saya
-  WhatsApp : +1 (614) 324-4921
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://wa.me/+16143244921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="xx72.xvv2050" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075229000933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joedevv2k_" height="30" width="40" /></a>
+</p>
 
-  Facebook : facebook.com/100075229000933
