@@ -15,9 +15,9 @@ Terlebih dahulu kamu download Termux di PlayStore atau https://f-droid.org/en/pa
 
     $ pkg install python git -y
     $ pip install bs4 rich requests futures
-    $ rm -rf Insta
-    $ git clone https://github.com/Xyaa-Code/Insta
-    $ cd $HOME/Insta
+    $ rm -rf INSTA
+    $ git clone https://github.com/ChangJr7/INSTA
+    $ cd $HOME/INSTA
     $ git pull
     $ python run.py
 
